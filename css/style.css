@@ -1,0 +1,49 @@
+
+@import url("https://use.typekit.net/yxi1jru.css");
+
+html {
+    font-size: 24px;
+    font-family: new-order, sans-serif;
+
+}
+body {
+    background-color: #181818;
+    color: rgb(236, 236, 236);
+
+}
+
+img{
+    width: 300px 
+}
+
+h1 {
+    font-family: hyperspace-race-cap-variable, sans-serif;
+    font-variation-settings: "wdth" 150, "wght" 900;
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 { 
+    font-family: hyperspace-race-cap-variable, sans-serif;
+    font-variation-settings: "wdth" 200, "wght" 500;
+    background-color: aliceblue;
+    color: #181818;
+}
+
+span {
+    color: aquamarine;
+}
+
+.titre-principal {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.container {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
